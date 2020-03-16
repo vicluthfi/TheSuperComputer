@@ -1,0 +1,11 @@
+F:\AMIKOM\The Super Computer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.csprojAssemblyReference.cache
+F:\AMIKOM\The Super Computer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfoInputs.cache
+F:\AMIKOM\The Super Computer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfo.cs
+F:\AMIKOM\The Super Computer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.exe
+F:\AMIKOM\The Super Computer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.deps.json
+F:\AMIKOM\The Super Computer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.json
+F:\AMIKOM\The Super Computer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.dev.json
+F:\AMIKOM\The Super Computer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.dll
+F:\AMIKOM\The Super Computer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.pdb
+F:\AMIKOM\The Super Computer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.dll
+F:\AMIKOM\The Super Computer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.pdb
